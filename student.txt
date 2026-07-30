@@ -1,0 +1,7 @@
+Name:Deepali
+Course:BCA
+Semester:3
+College:IPEM
+Semester:3
+College:IPEM
+City:Delhi
